@@ -12,7 +12,7 @@ Emotion detection goes beyond sentiment analysis by extracting more nuanced emot
 To successfully complete this project, you need to perform the following tasks:
 
 ### Task 1: Clone the Project Repository
-Begin by cloning the project repository to your local environment. This step will provide you with the necessary code and resources to commence your work. The original project link is: [Original Project Repository](https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git). However, I have cloned it on my local machine and pushed it to a new repository for the purpose of using it in the Cloud IDE. The link to my repository is: [My Repository](https://github.com/evildevill/Project-Emotion-Detector-Using-Flask.git).
+Begin by cloning the project repository to your local environment. This step will provide you with the necessary code and resources to commence your work. The original project link is: [Original Project Repository](https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git). However, I have cloned it on my local machine and pushed it to a new repository for the purpose of using it in the Cloud IDE. The link to my repository is: [My Repository](https://github.com/nguyenphucnamgiang/Developing-AI-Applications-with-Python-and-Flask).
 
 ### Task 2: Create an Emotion Detection Application
 Utilize the Watson NLP library to develop an emotion detection application. This application will analyze text input and identify the underlying emotions.
